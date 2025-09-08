@@ -1,4 +1,4 @@
-# Hi Guys, 
+# Hi guys, 
 **I'm Jeshaiah a Full Stack Developer | Software Engineer specializing in Website Development and AI**
 
 **Connect With Me**
