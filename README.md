@@ -4,7 +4,7 @@
 **Connect With Me**
 
 <div align="center">
-    <a href="www.linkedin.com/in/jeshaiah-jesse-8470732ab"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+    <a href=`www.linkedin.com/in/jeshaiah-jesse-8470732ab`><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
     <a href="/"><img src="https://img.shields.io/badge/portfolio-ED8B00?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" style="margin-bottom: 4px;" height="30px" target="_blank"/></a>
     <a href="/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </div>
