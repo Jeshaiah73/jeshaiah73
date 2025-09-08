@@ -1,5 +1,5 @@
-# Hi there 👋, 
-**I'm Marsha a Software Engineer specializing in AI and iOS Development**
+# Hola kawan-ku 👋, 
+**I'm Jeshaiah a Full Stack Developer | Software Engineer specializing in Website Development and AI**
 
 **Connect With Me**
 
