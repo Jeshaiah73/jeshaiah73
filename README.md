@@ -11,9 +11,6 @@
     <a href="/" target="_blank">
         <img src="https://img.shields.io/badge/portfolio-ED8B00?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30px"/>
     </a>
-    <a href="/" target="_blank">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30px"/>
-    </a>
 </div>
 
 ---
