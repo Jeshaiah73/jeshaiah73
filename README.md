@@ -113,5 +113,3 @@
 </div>
 
 ---
-
-✨ *Always learning, building, and contributing to open source!*
