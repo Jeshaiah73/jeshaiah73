@@ -5,7 +5,7 @@
 
 ## 🔗 Connect With Me
 <div align="center">
-    <a href="www.linkedin.com/in/jeshaiah-jesse-8470732ab" target="_blank">
+    <a href="https://www.linkedin.com/in/jeshaiah-jesse-8470732ab" target="_blank">
         <img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" height="30px"/>
     </a>
     <a href="/" target="_blank">
@@ -32,9 +32,9 @@
 
 ---
 
-## 🛠 Languages, Tools, and Skills
+## 🛠 Skills by Development Area
 
-### 🌐 Full Stack Development
+### 🌍 Website Development
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -43,10 +43,52 @@
     <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
 </div>
 
-### 🤖 Artificial Intelligence & Machine Learning
+### 📱 Application Development
+<div align="center">
+    <img src="https://img.shields.io/badge/flutter-06B6D4?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/onesignal-813CF9?style=for-the-badge&logo=onesignal&logoColor=white"/>
+</div>
+
+### 🎨 Frontend
+<div align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
+
+### ⚙️ Backend
+<div align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</div>
+
+#### ⚡ MERN Stack
+<div align="center">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</div>
+
+### 🗄 Databases
+<div align="center">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</div>
+
+### 🤖 AI & Data Science
 <div align="center">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -59,24 +101,7 @@
     <img src="https://img.shields.io/badge/openai-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div>
 
-### 🗄 Databases
-<div align="center">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</div>
-
-### 📱 Mobile Development
-<div align="center">
-    <img src="https://img.shields.io/badge/flutter-06B6D4?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/onesignal-813CF9?style=for-the-badge&logo=onesignal&logoColor=white"/>
-</div>
-
-### ⚙️ Tools & IDEs
+### 🧰 Tools & IDEs
 <div align="center">
     <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
     <img src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white"/>
