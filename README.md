@@ -19,8 +19,8 @@
 ---
 
 ## 📂 My GitHub Repositories
-- **Main GitHub (Projects & Open Source):** [jeshaiah73](https://github.com/jeshaiah73)  
-- **University Works & Assignments:** [jeshaiah04](https://github.com/jeshaiah04)  
+- **Main GitHub (Projects & Open Source):** [Jeshaiah73](https://github.com/jeshaiah73)  
+- **University Works & Assignments:** [Jeshaiah04](https://github.com/jeshaiah04)  
 
 ---
 
